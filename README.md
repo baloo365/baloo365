@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baloo365&show_icons=true&theme=vue)
 
-###Tech Stacks
+### Tech Stacks
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
